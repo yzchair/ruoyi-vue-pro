@@ -49,7 +49,7 @@ import DocAlert from '@/components/DocAlert'
 // 头部标签插件
 import VueMeta from 'vue-meta'
 
-Vue.use(directive)
+Vue.use(wenzi)
 Vue.use(plugins)
 Vue.use(VueMeta)
 // Vue.use(hljs.vuePlugin);
