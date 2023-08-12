@@ -8,7 +8,7 @@ import App from './App'
 import store from './store'
 import router from './router'
 import directive from './directive' // directive
-import plugins from './plugins' // plugins
+import plugins from './plugins' // pluginsguobia
 
 import './assets/icons' // icon
 import './permission' // permission control
