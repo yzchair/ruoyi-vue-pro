@@ -8,7 +8,7 @@ import App from './App'
 import store from './store'
 import router from './router'
 import directive from './directive' // directive
-import plugins from './plugins' // pluginsguobia
+import plugins from './plugins' // pluginsguobi1.搭建Mybatis开发环境
 
 import './assets/icons' // icon
 import './permission' // permission control
