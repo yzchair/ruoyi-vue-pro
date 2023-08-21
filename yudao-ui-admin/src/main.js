@@ -10,7 +10,7 @@ import router from './router'
 import directive from './directive' // directive
 import plugins from './plugins' // pluginsguobi1.搭建Mybatis开发环境
 
-import './assets/icons' // icon
+import './assets/icons' // icon制作
 import './permission' // permission control
 import './tongji' // 百度统计
 import { getDicts } from "@/api/system/dict/data";
