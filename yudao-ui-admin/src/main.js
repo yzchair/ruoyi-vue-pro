@@ -9,7 +9,7 @@ import store from './store'
 import router from './router'
 import directive from './directive' // directive
 import plugins from './plugins' // pluginsguobi1.搭建Mybatis开发环境
-tuiyuju 
+tuiyuju te's
 import './assets/icons' // icon制作
 import './permission' // permission control
 import './tongji' // 百度统计
@@ -32,7 +32,7 @@ Vue.prototype.resetForm = resetForm
 Vue.prototype.getDictDatas = getDictDatas
 Vue.prototype.getDictDatas2 = getDictDatas2
 Vue.prototype.getDictDataLabel = getDictDataLabel
-Vue.prototype.DICT_TYPE = DICT_TYPE
+Vue.prototype.DICT_TYPE = DICT_TYPEtes
 Vue.prototype.handleTree = handleTree
 Vue.prototype.addBeginAndEndTime = addBeginAndEndTime
 Vue.prototype.divide = divide
