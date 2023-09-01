@@ -9,7 +9,7 @@ import store from './store'
 import router from './router'
 import directive from './directive' // directive
 import plugins from './plugins' // pluginsguobi1.搭建Mybatis开发环境
-tuiyuju te's
+tuiyuju te'sfanli
 import './assets/icons' // icon制作
 import './permission' // permission control
 import './tongji' // 百度统计
