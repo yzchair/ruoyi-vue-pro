@@ -32,7 +32,7 @@ Vue.prototype.resetForm = resetForm
 Vue.prototype.getDictDatas = getDictDatas
 Vue.prototype.getDictDatas2 = getDictDatas2
 Vue.prototype.getDictDataLabel = getDictDataLabel
-Vue.prototype.DICT_TYPE = DICT_TYPEtesword
+Vue.prototype.DICT_TYPE = DICT_TYPEtes
 专
 Vue.prototype.handleTree = handleTree
 Vue.prototype.addBeginAndEndTime = addBeginAndEndTime
